@@ -3,8 +3,8 @@ jQuery(function($) {
  var BRUSHED = window.BRUSHED || {};
 
  /* ==================================================
-    Mobile Navigation
- ================================================== */
+  Mobile Navigation
+  ================================================== */
  var mobileMenuClone = $('#menu').clone().attr('id', 'navigation-mobile');
 
  BRUSHED.mobileNav = function() {
@@ -43,8 +43,8 @@ jQuery(function($) {
 
 
  /* ==================================================
-    Slider Options
- ================================================== */
+  Slider Options
+  ================================================== */
 
  BRUSHED.slider = function() {
   $.supersized({
@@ -125,8 +125,8 @@ jQuery(function($) {
 
 
  /* ==================================================
-    Navigation Fix
- ================================================== */
+  Navigation Fix
+  ================================================== */
 
  BRUSHED.nav = function() {
   $('.sticky-nav').waypoint('sticky');
@@ -134,8 +134,8 @@ jQuery(function($) {
 
 
  /* ==================================================
-    Filter Works
- ================================================== */
+  Filter Works
+  ================================================== */
 
  BRUSHED.filter = function() {
   if ($('#projects').length > 0) {
@@ -153,7 +153,7 @@ jQuery(function($) {
 
    // filter items when filter link is clicked
    var $optionSets = $('#options .option-set'),
-    $optionLinks = $optionSets.find('a');
+       $optionLinks = $optionSets.find('a');
 
    $optionLinks.click(function() {
     var $this = $(this);
@@ -167,8 +167,8 @@ jQuery(function($) {
 
     // make option object dynamically, i.e. { filter: '.my-filter-class' }
     var options = {},
-     key = $optionSet.attr('data-option-key'),
-     value = $this.attr('data-option-value');
+        key = $optionSet.attr('data-option-key'),
+        value = $this.attr('data-option-value');
     // parse 'false' as false boolean
     value = value === 'false' ? false : value;
     options[key] = value;
@@ -187,8 +187,8 @@ jQuery(function($) {
 
 
  /* ==================================================
-    FancyBox
- ================================================== */
+  FancyBox
+  ================================================== */
 
  BRUSHED.fancyBox = function() {
   if ($('.fancybox').length > 0 || $('.fancybox-media').length > 0 || $('.fancybox-various').length > 0) {
@@ -202,7 +202,7 @@ jQuery(function($) {
     helpers: {
      title: {
       type: 'inside'
-     },
+     }
     }
    });
 
@@ -218,8 +218,8 @@ jQuery(function($) {
 
 
  /* ==================================================
-    Contact Form
- ================================================== */
+  Contact Form
+  ================================================== */
 
  BRUSHED.contactForm = function() {
   $("#contact-submit").on('click', function() {
@@ -248,8 +248,8 @@ jQuery(function($) {
 
 
  /* ==================================================
-    Twitter Feed
- ================================================== */
+  Twitter Feed
+  ================================================== */
 
  BRUSHED.tweetFeed = function() {
 
@@ -285,8 +285,8 @@ jQuery(function($) {
 
 
  /* ==================================================
-    Menu Highlight
- ================================================== */
+  Menu Highlight
+  ================================================== */
 
  BRUSHED.menu = function() {
   $('#menu-nav, #menu-nav-mobile').onePageNav({
@@ -301,8 +301,8 @@ jQuery(function($) {
  }
 
  /* ==================================================
-    Next Section
- ================================================== */
+  Next Section
+  ================================================== */
 
  BRUSHED.goSection = function() {
   $('#nextsection').on('click', function() {
@@ -316,8 +316,8 @@ jQuery(function($) {
  }
 
  /* ==================================================
-    GoUp
- ================================================== */
+  GoUp
+  ================================================== */
 
  BRUSHED.goUp = function() {
   $('#goUp').on('click', function() {
@@ -332,12 +332,12 @@ jQuery(function($) {
 
 
  /* ==================================================
- 	Scroll to Top
- ================================================== */
+  Scroll to Top
+  ================================================== */
 
  BRUSHED.scrollToTop = function() {
   var windowWidth = $(window).width(),
-   didScroll = false;
+      didScroll = false;
 
   var $arrow = $('#back-to-top');
 
@@ -366,8 +366,8 @@ jQuery(function($) {
  }
 
  /* ==================================================
-    Thumbs / Social Effects
- ================================================== */
+  Thumbs / Social Effects
+  ================================================== */
 
  BRUSHED.utils = function() {
 
@@ -389,8 +389,8 @@ jQuery(function($) {
  }
 
  /* ==================================================
-    Accordion
- ================================================== */
+  Accordion
+  ================================================== */
 
  BRUSHED.accordion = function() {
   var accordion_trigger = $('.accordion-heading.accordionize');
@@ -410,8 +410,8 @@ jQuery(function($) {
  }
 
  /* ==================================================
-    Toggle
- ================================================== */
+  Toggle
+  ================================================== */
 
  BRUSHED.toggle = function() {
   var accordion_trigger_toggle = $('.accordion-heading.togglize');
@@ -429,8 +429,8 @@ jQuery(function($) {
  }
 
  /* ==================================================
-    Tooltip
- ================================================== */
+  Tooltip
+  ================================================== */
 
  BRUSHED.toolTip = function() {
   $('a[data-toggle=tooltip]').tooltip();
@@ -438,8 +438,8 @@ jQuery(function($) {
 
 
  /* ==================================================
- 	Init
- ================================================== */
+  Init
+  ================================================== */
 
  BRUSHED.slider();
 
