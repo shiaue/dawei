@@ -404,23 +404,23 @@ BRUSHED.toolTip = function(){
 
 BRUSHED.slider();
 
-$(document).ready(function(){
-	Modernizr.load([
-	{
-		test: Modernizr.placeholder,
-		nope: 'js/placeholder.js', 
-		complete : function() {
-				if (!Modernizr.placeholder) {
-						Placeholders.init({
-						live: true,
-						hideOnFocus: false,
-						className: "yourClass",
-						textColor: "#999"
-						});    
-				}
-		}
-	}
-	]);
+// $(document).ready(function(){
+// 	Modernizr.load([
+// 	{
+// 		test: Modernizr.placeholder,
+// 		nope: 'js/placeholder.js', 
+// 		complete : function() {
+// 				if (!Modernizr.placeholder) {
+// 						Placeholders.init({
+// 						live: true,
+// 						hideOnFocus: false,
+// 						className: "yourClass",
+// 						textColor: "#999"
+// 						});    
+// 				}
+// 		}
+// 	}
+// 	]);
 	
 	// Preload the page with jPreLoader
 	$('body').jpreLoader({
