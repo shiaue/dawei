@@ -2,90 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="206fcaff-b0bc-4655-9d40-9501863ec170" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/bootstrap-responsive.min.css" afterPath="$PROJECT_DIR$/css/bootstrap-responsive.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/fancybox/blank.gif" afterPath="$PROJECT_DIR$/css/fancybox/blank.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/fancybox/fancybox_loading.gif" afterPath="$PROJECT_DIR$/css/fancybox/fancybox_loading.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/fancybox/fancybox_overlay.png" afterPath="$PROJECT_DIR$/css/fancybox/fancybox_overlay.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/fancybox/fancybox_sprite.png" afterPath="$PROJECT_DIR$/css/fancybox/fancybox_sprite.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/fancybox/jquery.fancybox.css" afterPath="$PROJECT_DIR$/css/fancybox/jquery.fancybox.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/fonts.css" afterPath="$PROJECT_DIR$/css/fonts.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/fonts/Icons.eot" afterPath="$PROJECT_DIR$/css/fonts/Icons.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/fonts/Icons.svg" afterPath="$PROJECT_DIR$/css/fonts/Icons.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/fonts/Icons.ttf" afterPath="$PROJECT_DIR$/css/fonts/Icons.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/fonts/Icons.woff" afterPath="$PROJECT_DIR$/css/fonts/Icons.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/responsive.css" afterPath="$PROJECT_DIR$/css/responsive.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/shortcodes.css" afterPath="$PROJECT_DIR$/css/shortcodes.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/supersized.css" afterPath="$PROJECT_DIR$/css/supersized.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/supersized.shutter.css" afterPath="$PROJECT_DIR$/css/supersized.shutter.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/filter-icon.png" afterPath="$PROJECT_DIR$/img/filter-icon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/filter-icon_@2x.png" afterPath="$PROJECT_DIR$/img/filter-icon_@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/logo.png" afterPath="$PROJECT_DIR$/img/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/logo_@2x.png" afterPath="$PROJECT_DIR$/img/logo_@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/menu-mobile.png" afterPath="$PROJECT_DIR$/img/menu-mobile.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/menu-mobile_@2x.png" afterPath="$PROJECT_DIR$/img/menu-mobile_@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/profile/profile-01.jpg" afterPath="$PROJECT_DIR$/img/profile/profile-01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/profile/profile-02.jpg" afterPath="$PROJECT_DIR$/img/profile/profile-02.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/profile/profile-03.jpg" afterPath="$PROJECT_DIR$/img/profile/profile-03.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/slider-images/image01.jpg" afterPath="$PROJECT_DIR$/img/slider-images/image01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/slider-images/image02.jpg" afterPath="$PROJECT_DIR$/img/slider-images/image02.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/slider-images/image03.jpg" afterPath="$PROJECT_DIR$/img/slider-images/image03.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/slider-images/image04.jpg" afterPath="$PROJECT_DIR$/img/slider-images/image04.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/slider-images/image05.jpg" afterPath="$PROJECT_DIR$/img/slider-images/image05.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/slider-images/image06.jpg" afterPath="$PROJECT_DIR$/img/slider-images/image06.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/slider-images/image07.jpg" afterPath="$PROJECT_DIR$/img/slider-images/image07.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/back.png" afterPath="$PROJECT_DIR$/img/supersized/back.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/bg-black.png" afterPath="$PROJECT_DIR$/img/supersized/bg-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/bg-hover.png" afterPath="$PROJECT_DIR$/img/supersized/bg-hover.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/button-tray-down.png" afterPath="$PROJECT_DIR$/img/supersized/button-tray-down.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/button-tray-up.png" afterPath="$PROJECT_DIR$/img/supersized/button-tray-up.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/forward.png" afterPath="$PROJECT_DIR$/img/supersized/forward.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/nav-bg.png" afterPath="$PROJECT_DIR$/img/supersized/nav-bg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/nav-dot.png" afterPath="$PROJECT_DIR$/img/supersized/nav-dot.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/pause.png" afterPath="$PROJECT_DIR$/img/supersized/pause.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/play.png" afterPath="$PROJECT_DIR$/img/supersized/play.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/progress-back.png" afterPath="$PROJECT_DIR$/img/supersized/progress-back.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/progress-bar.png" afterPath="$PROJECT_DIR$/img/supersized/progress-bar.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/progress.gif" afterPath="$PROJECT_DIR$/img/supersized/progress.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/supersized-logo.png" afterPath="$PROJECT_DIR$/img/supersized/supersized-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/thumb-back.png" afterPath="$PROJECT_DIR$/img/supersized/thumb-back.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/thumb-forward.png" afterPath="$PROJECT_DIR$/img/supersized/thumb-forward.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/full/image-01-full.jpg" afterPath="$PROJECT_DIR$/img/work/full/image-01-full.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/full/image-02-full.jpg" afterPath="$PROJECT_DIR$/img/work/full/image-02-full.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/full/image-03-full.jpg" afterPath="$PROJECT_DIR$/img/work/full/image-03-full.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/full/image-04-full.jpg" afterPath="$PROJECT_DIR$/img/work/full/image-04-full.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/full/image-05-full.jpg" afterPath="$PROJECT_DIR$/img/work/full/image-05-full.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/full/image-06-full.jpg" afterPath="$PROJECT_DIR$/img/work/full/image-06-full.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/full/image-07-full.jpg" afterPath="$PROJECT_DIR$/img/work/full/image-07-full.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/thumbs/image-01.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/thumbs/image-02.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-02.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/thumbs/image-03.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-03.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/thumbs/image-04.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-04.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/thumbs/image-05.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-05.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/thumbs/image-06.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-06.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/thumbs/image-07.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-07.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/thumbs/image-08.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-08.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/thumbs/image-09.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-09.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/ga.js" afterPath="$PROJECT_DIR$/js/ga.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/jquery.fancybox-media.js" afterPath="$PROJECT_DIR$/js/jquery.fancybox-media.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/jquery.fancybox.pack.js" afterPath="$PROJECT_DIR$/js/jquery.fancybox.pack.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/jquery.isotope.js" afterPath="$PROJECT_DIR$/js/jquery.isotope.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/jquery.tweet.js" afterPath="$PROJECT_DIR$/js/jquery.tweet.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/modernizr.js" afterPath="$PROJECT_DIR$/js/modernizr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/placeholder.js" afterPath="$PROJECT_DIR$/js/placeholder.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/plugins.js" afterPath="$PROJECT_DIR$/js/plugins.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/supersized.3.2.7.min.js" afterPath="$PROJECT_DIR$/js/supersized.3.2.7.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/twitter/index.php" afterPath="$PROJECT_DIR$/js/twitter/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/twitter/lib/tmhOAuth.php" afterPath="$PROJECT_DIR$/js/twitter/lib/tmhOAuth.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/twitter/lib/tmhUtilities.php" afterPath="$PROJECT_DIR$/js/twitter/lib/tmhUtilities.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/waypoints-sticky.js" afterPath="$PROJECT_DIR$/js/waypoints-sticky.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/waypoints.js" afterPath="$PROJECT_DIR$/js/waypoints.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/php/contact.php" afterPath="$PROJECT_DIR$/php/contact.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shortcodes.html" afterPath="$PROJECT_DIR$/shortcodes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
     </list>
     <ignored path="dawei.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -109,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1904762">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.33333334">
+              <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -258,8 +175,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1904762">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
           <folding />
         </state>
       </provider>
