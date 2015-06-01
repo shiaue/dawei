@@ -112,6 +112,21 @@ jQuery(function($) {
      title: '<div class="slide-content">Dawei  Li  Photography</div>',
      thumb: '',
      url: ''
+    }, {
+     image: 'img/slider-images/image08.jpg',
+     title: '<div class="slide-content">Dawei  Li  Photography</div>',
+     thumb: '',
+     url: ''
+    }, {
+     image: 'img/slider-images/image09.jpg',
+     title: '<div class="slide-content">Dawei  Li  Photography</div>',
+     thumb: '',
+     url: ''
+    }, {
+     image: 'img/slider-images/image10.jpg',
+     title: '<div class="slide-content">Dawei  Li  Photography</div>',
+     thumb: '',
+     url: ''
     }
    ],
 
